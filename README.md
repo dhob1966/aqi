@@ -17,7 +17,7 @@ EDA.ipynb:
 # main_analysis.ipynb:
  Divided for daily case and monthly case.
  It is the first document advised to check. It is the main analysis
- carried on to create the models. It make use of the 
+ carried on to create the models. It makes use of the 
  general functions found in functions.py. It contains some general
  information about the process and the general code to create the 
  models.
