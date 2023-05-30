@@ -1,0 +1,23 @@
+ twenty_previous=
+{
+    lag1: float
+    lag2: float
+    lag3: float
+    lag4: float
+    lag5: float
+    lag6: float
+    lag7: float
+    lag8: float
+    lag9: float
+    lag10: float
+    lag11: float
+    lag12: float
+    lag13: float
+    lag14: float
+    lag15: float
+    lag16: float
+    lag17: float
+    lag18: float
+    lag19: float
+    lag20: float
+}
